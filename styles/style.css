@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: aqua;
+    height: 10vh;
+}
+
+main {
+    background-color: rgb(255, 0, 234);
+    min-height: 80vh;
+}
+
+footer {
+    background-color: rgb(26, 255, 0);
+    min-height: 10vh;
+}
